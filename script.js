@@ -126,7 +126,7 @@ lapCounter++;
 }
 }
 
-// STEP 9: Toggle theme function 
+// Toggle theme function 
 function toggleThemeMode() {
 const body = document.body;
 
